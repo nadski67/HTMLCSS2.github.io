@@ -1,0 +1,23 @@
+table.lievelingsdingen {
+  border-collapse: collapse;
+  background-color: blue;
+  color: pink;
+}
+
+table.lievelingsdingen td {
+  background-color: #D1004F;
+  border: 3px solid white;
+  font-family: serif;
+
+}
+
+
+table.lievelingsdingen th {
+ color: paleturquoise;
+ border-top-style: dotted;
+ border-right-style: solid;
+ border-bottom-style: dotted;
+ border-left-style: solid;
+ font-style: italic;
+
+}
